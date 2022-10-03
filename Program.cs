@@ -5,3 +5,13 @@ class Program
  		Console.WriteLine("Hello, World");
 	}
 }
+
+class Warrior
+{
+	private int _health;
+
+	public void TakeDamage(int damage)
+	{
+
+	}
+}
